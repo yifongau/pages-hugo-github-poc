@@ -3,7 +3,7 @@ media:
   output: /images
 content:
   - name: posts-generic
-    label: Posts-Generic
+    label: Generieke berichten
     type: collection
     path: 'content/posts-generic'
     view:
@@ -22,7 +22,7 @@ content:
         label: Body
         type: rich-text
   - name: posts-special
-    label: Posts-Special
+    label: Bijzondere berichten
     type: collection
     path: 'content/posts-special'
     view:
