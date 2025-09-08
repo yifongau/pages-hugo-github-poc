@@ -38,7 +38,7 @@ content:
         label: Title
         type: string
       - name: body
-        label: Body
+        label: Body-HTML
         type: text
   - name: config
     label: Hugo config
