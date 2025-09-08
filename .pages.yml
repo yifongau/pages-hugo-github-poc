@@ -6,6 +6,7 @@ content:
     label: Posts-Rich
     type: collection
     path: 'content/posts'
+    exclude: '*.md'
     view:
       fields: [ date, draft, title ]
     fields:
