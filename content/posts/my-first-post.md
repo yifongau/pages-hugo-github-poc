@@ -1,9 +1,8 @@
 ---
-date: '2025-09-08T18:49:57+02:00'
+date: 2025-09-08
 draft: false
-title: 'My First Post'
+title: My First Post
 ---
-
 # Test
 
 Dit is een testpagina. Een bewerking.
