@@ -5,7 +5,7 @@ content:
   - name: posts-rich
     label: Posts-Rich
     type: collection
-    path: 'content/posts'
+    path: 'content/posts-generic'
     view:
       fields: [ date, draft, title ]
     fields:
@@ -24,7 +24,7 @@ content:
   - name: posts-raw
     label: Posts-Raw
     type: collection
-    path: 'content/posts'
+    path: 'content/posts-special'
     view:
       fields: [ date, draft, title ]
     fields:
