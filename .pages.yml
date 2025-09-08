@@ -18,6 +18,9 @@ content:
       - name: body
         label: Body
         type: rich-text
+      - name: raw
+        label: Markdown
+        type: text
   - name: config
     label: Hugo config
     path: hugo.yaml
