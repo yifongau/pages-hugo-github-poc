@@ -5,4 +5,4 @@ title: Tweede post
 ---
 Dit is een tweede post
 
-![](/static/images/skut-logo.png)
+![](/images/skut-logo.png)
