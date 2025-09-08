@@ -21,4 +21,4 @@ _cursiefdenk ik?_
 Code schrijven?
 ```
 
-!\[skut-logo\](/images/skut-logo.png)
+<p style="text-align: right">![skut-logo](/images/skut-logo.png)</p>
