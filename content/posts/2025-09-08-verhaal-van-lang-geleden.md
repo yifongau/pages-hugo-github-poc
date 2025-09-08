@@ -21,6 +21,5 @@ _cursiefdenk ik?_
 Code schrijven?
 ```
 
-Test: afbeelding ophalen tijdens compile time:
 
-{{ $image := resources.GetRemote "https://www.tijdschriftskut.nl/wp-content/uploads/2025/02/Marieke-Ornelis-Herfst-I-7.svg" }}
+![Logo](/images/skut-logo.png)
