@@ -4,9 +4,7 @@ draft: false
 title: 'Lucebot test'
 ---
 
-<!DOCTYPE html>
 <html>
-
 <head>
   <title>
     Parse poems
@@ -21,6 +19,5 @@ title: 'Lucebot test'
   <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
   <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 </body>
-<script scr="script.js">
-
+<script scr="script.js"></script>
 </html>
