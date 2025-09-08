@@ -15,4 +15,10 @@ _cursiefdenk ik?_
 
 **vet denk ik**
 
-\[linkje\](https://www.tijdschriftskut.nl)
+\[linkje\]([https://www.tijdschriftskut.nl](https://www.tijdschriftskut.nl))
+
+Test: afbeelding ophalen tijdens compile time:
+
+```go-html-template
+{{ $image := resources.GetRemote "https://www.tijdschriftskut.nl/wp-content/uploads/2025/02/Marieke-Ornelis-Herfst-I-7.svg" }}
+```
