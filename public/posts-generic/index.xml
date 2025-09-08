@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts-Generics on Zeitschrift SCUD</title>
+    <link>http://localhost:1313/posts-generic/</link>
+    <description>Recent content in Posts-Generics on Zeitschrift SCUD</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts-generic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts-generic/my-first-post/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts-generic/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;p&gt;Dit is een testpagina. Een bewerking.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tweede post</title>
+      <link>http://localhost:1313/posts-generic/2025-09-08-tweede-post/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts-generic/2025-09-08-tweede-post/</guid>
+      <description>&lt;p&gt;Dit is een tweede post&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/skut-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verhaal van lang geleden</title>
+      <link>http://localhost:1313/posts-generic/2025-09-08-verhaal-van-lang-geleden/</link>
+      <pubDate>Tue, 01 Sep 1981 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts-generic/2025-09-08-verhaal-van-lang-geleden/</guid>
+      <description>&lt;p&gt;Er was eens een worm en de worm werd een vlinder en toen de vlinder gevangen werd werd het een kunstwerk en als kunstwerk versierde het het huis van een verzamelaar, die eens een worm was en toen een kind en toen heel erg verloren maar niet verdwenen van deze aardkloot.&lt;/p&gt;&#xA;&lt;h1 id=&#34;groot-kopje&#34;&gt;Groot kopje&lt;/h1&gt;&#xA;&lt;h2 id=&#34;kleiner-kopje&#34;&gt;Kleiner kopje&lt;/h2&gt;&#xA;&lt;h3 id=&#34;nog-kleiner-kopje&#34;&gt;Nog kleiner kopje&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;cursiefdenk ik?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;vet denk ik&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;[linkje](&lt;a href=&#34;https://www.tijdschriftskut.nl&#34;&gt;https://www.tijdschriftskut.nl&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Code schrijven?&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p style=&#34;text-align: right&#34;&gt;![skut-logo](/images/skut-logo.png)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
