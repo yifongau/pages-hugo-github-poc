@@ -2,3 +2,7 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Zeitschrift SCUD
 theme: ananke
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
