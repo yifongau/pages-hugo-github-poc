@@ -1,3 +1,9 @@
+---
+date: 2025-09-01
+title: Lucebot test
+draft: false
+---
+
 <!DOCTYPE html>
 <html>
 
