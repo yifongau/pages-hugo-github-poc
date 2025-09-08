@@ -24,7 +24,7 @@ content:
   - name: posts-raw
     label: Posts-Raw
     type: collection
-    path: 'content/posts-special'
+    path: 'content/posts'
     view:
       fields: [ date, draft, title ]
     fields:
