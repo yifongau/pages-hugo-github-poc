@@ -17,6 +17,10 @@ _cursiefdenk ik?_
 
 \[linkje\]([https://www.tijdschriftskut.nl](https://www.tijdschriftskut.nl))
 
+```
+Code schrijven?
+```
+
 Test: afbeelding ophalen tijdens compile time:
 
 ```go-html-template
