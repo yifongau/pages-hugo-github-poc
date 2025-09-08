@@ -20,5 +20,3 @@ _cursiefdenk ik?_
 ```
 Code schrijven?
 ```
-
-<p style="text-align: right">![skut-logo](/images/skut-logo.png)</p>
