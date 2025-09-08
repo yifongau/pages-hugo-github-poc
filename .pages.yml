@@ -20,7 +20,7 @@ content:
         type: rich-text
   - name: config
     label: Hugo config
-    path: hugo.toml
+    path: hugo.yaml
     type: file
     fields:
       - name: baseURL
