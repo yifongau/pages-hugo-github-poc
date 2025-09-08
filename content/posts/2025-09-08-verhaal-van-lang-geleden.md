@@ -23,6 +23,4 @@ Code schrijven?
 
 Test: afbeelding ophalen tijdens compile time:
 
-```go-html-template
 {{ $image := resources.GetRemote "https://www.tijdschriftskut.nl/wp-content/uploads/2025/02/Marieke-Ornelis-Herfst-I-7.svg" }}
-```
