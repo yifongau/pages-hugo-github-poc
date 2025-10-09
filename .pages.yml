@@ -23,7 +23,7 @@ content:
         type: string
       - name: genre
         label: Genre
-        type: genre
+        type: string
       - name: reeks
         label: Reeks
         type: string
