@@ -2,10 +2,10 @@ media:
   input: static/images
   output: /images
 content:
-  - name: posts-generic
-    label: Generieke berichten
+  - name: publicaties-standaard
+    label: Publicaties (standaard)
     type: collection
-    path: 'content/posts-generic'
+    path: 'content/publicaties-standaard'
     view:
       fields: [ date, draft, title ]
     fields:
@@ -21,10 +21,10 @@ content:
       - name: body
         label: Body
         type: rich-text
-  - name: posts-special
-    label: Bijzondere berichten
+  - name: publicaties-htmld
+    label: Publicaties (htmld)
     type: collection
-    path: 'content/posts-special'
+    path: 'content/publicaties-htmld'
     view:
       fields: [ date, draft, title ]
     fields:
