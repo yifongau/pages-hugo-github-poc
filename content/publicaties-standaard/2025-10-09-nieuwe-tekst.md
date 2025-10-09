@@ -1,4 +1,5 @@
 ---
+date: 2025-10-09
 draft: false
 title: Nieuwe tekst op 9 oktober
 auteur: tekst
