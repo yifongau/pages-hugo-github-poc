@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Nieuwe tekst
+title: Nieuwe tekst op 9 oktober
 auteur: tekst
 genre: tekst
 reeks: tekst
