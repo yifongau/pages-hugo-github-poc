@@ -2,7 +2,7 @@ media:
   input: static/images
   output: /images
 content:
-  - name: publicaties-standaard
+  - name: publicaties
     label: Publicaties (standaard)
     type: collection
     path: 'content/publicaties-standaard'
