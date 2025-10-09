@@ -3,8 +3,8 @@ languageCode: en-us
 title: Zeitschrift SCUD
 theme: ananke
 mainSections:
-  - posts-generic
-  - posts-special
+  - publicaties-standaard
+  - publicaties-htmld
 markup:
   goldmark:
     renderer:
