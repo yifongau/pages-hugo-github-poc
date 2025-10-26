@@ -7,6 +7,6 @@ genre: I dont know
 reeks: We zien wel
 ---
 Test test  
-<b>Vette tekst?</b>  
-<i>Schuine tekst</i>  
-<striketrough>Doorgestreepte tekst/</strikethrough>
+**Vette tekst?**  
+_Schuine tekst_  
+~Doorgestreepte tekst~
